@@ -384,19 +384,27 @@ Implementar redes neurais multicamadas utilizando Python e Scikit-Learn.
 git clone https://github.com/AlissaGabriel/Fatec-AprendizagemDeMaquina.git
 ```
 
-## 2. Instalar as dependências
+## 2. Abrir o projeto no Visual Studio Code
+
+Abra a pasta do repositório no Visual Studio Code.
+
+## 3. Instalar as dependências
 
 ```bash
 %pip install notebook numpy pandas matplotlib torch
 ```
 
-## 3. Executar o Jupyter Notebook
+## 4. Executar o Jupyter Notebook
 
-Para executar todas as células do notebook, basta acessar:
+1. Escolha o arquivo .ipynb referente à aula ou atividade desejada;
 
-Run → Run All Cells
+2. Abra o notebook no Visual Studio Code;
 
-Assim todos os códigos serão executados em sequência.
+3. No menu superior do notebook, clique em:
+```bash
+Run All
+```
+Assim todas as células do notebook serão executadas em sequência, reproduzindo os resultados do projeto.
 
 ---
 
