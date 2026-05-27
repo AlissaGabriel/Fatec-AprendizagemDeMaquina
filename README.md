@@ -352,6 +352,9 @@ Arquivos:
 - `train_dataset1.csv`
 - `train_dataset2.csv`
 - `train_dataset3.csv`
+- `test_dataset.csv`
+- `train_dataset.csv`
+- `validation_dataset.csv`
 
 ### Conteúdo aprendido
 - Redes neurais multicamadas
@@ -373,6 +376,24 @@ Implementar redes neurais multicamadas utilizando Python e Scikit-Learn.
 - Counter
 - CSV
 - Torch
+
+---
+
+## Aula 18 — K-Means
+
+Arquivos:
+- `kmeans.ipynb`
+- `dataset_clientes_kmeans.csv`
+
+### Conteúdo aprendido
+- Agrupamento de dados com K-Means
+- Clusterização de clientes
+- Identificação de padrões
+- Análise de similaridade entre dados
+- Segmentação de grupos
+
+### Objetivo da aula
+Compreender o funcionamento do algoritmo K-Means e aplicar técnicas de agrupamento de dados para segmentação e análise de perfis de clientes.
 
 ---
 
