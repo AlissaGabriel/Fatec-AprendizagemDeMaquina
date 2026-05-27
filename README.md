@@ -23,6 +23,7 @@ Além de técnicas como:
 - Árvore de Decisão
 - Perceptron
 - Multi Layer Perceptron (MLP)
+- K-Means
 
 ---
 
