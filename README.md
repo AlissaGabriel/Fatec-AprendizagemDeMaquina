@@ -367,19 +367,6 @@ Implementar redes neurais multicamadas utilizando Python e Scikit-Learn.
 
 ---
 
-# Tecnologias Utilizadas
-
-- Python
-- Jupyter Notebook
-- NumPy
-- Pandas
-- Matplotlib
-- Counter
-- CSV
-- Torch
-
----
-
 ## Aula 18 — K-Means
 
 Arquivos:
@@ -395,6 +382,19 @@ Arquivos:
 
 ### Objetivo da aula
 Compreender o funcionamento do algoritmo K-Means e aplicar técnicas de agrupamento de dados para segmentação e análise de perfis de clientes.
+
+---
+
+# Tecnologias Utilizadas
+
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Counter
+- CSV
+- Torch
 
 ---
 
