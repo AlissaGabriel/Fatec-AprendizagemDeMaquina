@@ -363,7 +363,7 @@ Arquivos:
 - Modelos mais complexos de IA
 
 ### Objetivo da aula
-Implementar redes neurais multicamadas utilizando Python e Scikit-Learn.
+Implementar redes neurais multicamadas utilizando Python.
 
 ---
 
@@ -382,6 +382,30 @@ Arquivos:
 
 ### Objetivo da aula
 Compreender o funcionamento do algoritmo K-Means e aplicar técnicas de agrupamento de dados para segmentação e análise de perfis de clientes.
+
+---
+
+## Aula 19 — Exercícios de Perceptron, MLP e K-Means
+
+Arquivos:
+- `exercicio1.ipynb`
+- `exercicio2.ipynb`
+- `exercicio3.ipynb`
+- `dataset_credito.csv`
+- `dataset_fraude.csv`
+- `dataset_investimentos.csv`
+- `dataset_marketing.csv`
+
+### Conteúdo aprendido
+- Redes neurais artificiais
+- Treinamento utilizando Perceptron
+- Multi Layer Perceptron (MLP)
+- Agrupamento de dados com K-Means
+- Classificação e segmentação de dados
+- Comparação entre modelos de Machine Learning
+
+### Objetivo da aula
+Aplicar técnicas de aprendizado de máquina utilizando Perceptron, Multi Layer Perceptron (MLP) e K-Means, reforçando conceitos de classificação, treinamento de redes neurais e agrupamento de dados.
 
 ---
 
