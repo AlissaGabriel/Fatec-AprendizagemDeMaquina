@@ -353,9 +353,6 @@ Arquivos:
 - `train_dataset1.csv`
 - `train_dataset2.csv`
 - `train_dataset3.csv`
-- `test_dataset.csv`
-- `train_dataset.csv`
-- `validation_dataset.csv`
 
 ### Conteúdo aprendido
 - Redes neurais multicamadas
